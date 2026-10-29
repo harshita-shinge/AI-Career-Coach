@@ -1,36 +1,116 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AI Career Coach 🚀
 
-## Getting Started
+A work-in-progress web application exploring AI-assisted career guidance. This project is being developed while learning modern web development, version control, and software engineering practices.
 
-First, run the development server:
+## 📌 Project Status
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+**In Development**
+
+The project currently uses a Next.js and React setup. Email-and-password login requirements have been documented, and implementation is still being developed and verified.
+
+## 🛠️ Tech Stack
+
+* **Framework:** Next.js
+* **Frontend Library:** React
+* **Programming Language:** TypeScript
+* **Styling:** Tailwind CSS
+* **Version Control:** Git and GitHub
+
+## ✨ Project Goals
+
+The goal is to develop a web application that can help users explore career-related guidance.
+
+Planned improvements include:
+
+* User registration and login
+* Career guidance features
+* AI-assisted career-related responses
+* A clean and user-friendly interface
+
+These features will be added and documented as development progresses.
+
+## ⚙️ Getting Started
+
+### Prerequisites
+
+Install the following:
+
+* Node.js
+* npm
+* Git
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/harshita-shinge/AI-Career-Coach.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd AI-Career-Coach
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open http://localhost:3000 in your browser.
+
+## 📂 Project Structure
+
+```text
+AI-Career-Coach/
+├── app/                  # Application pages and UI
+├── public/               # Static assets
+├── login_feature.txt     # Login feature requirements
+├── package.json          # Dependencies and scripts
+├── next.config.ts        # Next.js configuration
+├── tsconfig.json         # TypeScript configuration
+└── README.md             # Project documentation
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🎯 Learning Objectives
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+* Practise React and Next.js development
+* Strengthen TypeScript fundamentals
+* Learn Git and GitHub workflows
+* Develop and test features incrementally
+* Apply Agile software development practices
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🔮 Future Scope
 
-## Learn More
+* Complete and test authentication
+* Develop career guidance functionality
+* Explore suitable AI and machine learning approaches
+* Add application screenshots and deployment instructions
+  
+## 🙏 Acknowledgements
 
-To learn more about Next.js, take a look at the following resources:
+This project is being developed as a learning project. I refer to the AI Career Coach tutorial by Piyush Garg to understand the implementation of similar features and improve my web development skills.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* **Tutorial:** [AI Career Coach — YouTube](https://youtu.be/UbXpRv5ApKA)
+* **Reference Repository:** [piyush-eon/ai-career-coach](https://github.com/piyush-eon/ai-career-coach)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+I am building and maintaining my own repository and will document my implementation, modifications, and additional features as development progresses.
 
-## Deploy on Vercel
+## 👩‍💻 Author
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Harshita Shinge**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+GitHub: [harshita-shinge](https://github.com/harshita-shinge)
+
+---
+
+
+*This project is a work in progress. Features and documentation will be updated as development continues.*
